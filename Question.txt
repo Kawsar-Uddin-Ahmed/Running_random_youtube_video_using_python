@@ -1,0 +1,7 @@
+Random fav playlist using python :
+===============================
+1. create a python list with  5 youtube video links  
+2. use a random function and pick an item from the list
+3. Play the video
+4. you can use a 2 hours timer 
+5. or you can use the scheduler
